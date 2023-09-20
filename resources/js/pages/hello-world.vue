@@ -2,13 +2,13 @@
 export default {
   data() {
     return {
-      greeting: "Hello World!",
+      greeting: "Hello Inertia!!",
     };
   },
 };
 </script>
 
-	<template>
+<template>
   <p class="greeting">{{ greeting }}</p>
 </template>
 
