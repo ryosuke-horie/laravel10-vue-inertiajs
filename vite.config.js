@@ -12,7 +12,7 @@ export default defineConfig({
     ],
     server: {
         // 外部公開
-        host: '192.168.100.230', // IPを記載
+        host: 'xxx.xxx.xxx.xxx', // IPを記載
         port: 5173
     }
 });
